@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(255, 126, 126);
+    color: white;
+    margin: 10px;
+}
+header h1{
+    background-color: red;
+    padding: 5px;
+}
+h2{
+    color: black;
+}
+header a{
+    display: inline;
+    background-color: red;
+    padding: 5px;
+    margin: 3px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 15px;
+}
+header{
+    text-align: center;
+}
+main p{
+    background-color: red;
+    padding: 5px;
+    width: 325px;
+}
+.w400{
+    width: 400px;
+}
+.w550{
+    width: 550px;
+}
+.w458{
+    width: 460px;
+}
+.backcolor{
+    background-color: rgb(255, 126, 126);
+    display: inline;
+    margin: 0px;
+}
+.w350{
+    width: 350px;
+    margin: 0px;
+}
+.img{
+    width: 500px;
+    margin: 0px;
+}
+.inline{
+    display: inline;
+}
+.lev{
+    width: 350px;
+    float: right;
+}
+
+footer p{
+    background-color: red;
+}
+
+td{
+    background-color: red;
+    width: 15px;
+    padding: 5px;
+    border: 3px double black;
+}
+table{
+    background-color: rgb(255, 126, 126);
+    width: 250px;
+}
+
+.pravo{
+    float: right;
+}
+.levo{
+    float: left;
+}
+
+.authors{
+    width: 350px;
+}
+.p{
+    width: 570px;
+}
+.p2{
+    float: right;
+    width: 240px;
+}
+b{
+    color: black
+}
